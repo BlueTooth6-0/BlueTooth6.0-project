@@ -1,4 +1,4 @@
-# BlueTooth6-0 Docs
+# BlueTooth6.0 Docs
 
 歡迎來到本專案的文件中心。
 
