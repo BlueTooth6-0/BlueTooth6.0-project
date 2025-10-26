@@ -15,12 +15,4 @@ It includes standardized data formats, training and deployment scripts, and clea
 | `examples/` | Example notebooks for model usage |
 | `tests/` | Validation and consistency checks |
 
-## ⚙️ Installation
-```bash
-git clone https://github.com/open-ble-localization.git
-cd open-ble-localization
-pip install -r requirements.txt
-...
-```
-
-##  and then ...
+# other introduction for this project...
