@@ -1,4 +1,4 @@
-# 模型儲存區 (Models)
+# BlueTooth6.0 Models
 
 歡迎來到本專案的模型儲存區。
 
