@@ -20,3 +20,5 @@ It includes standardized data formats, training and deployment scripts, and clea
 git clone https://github.com/open-ble-localization.git
 cd open-ble-localization
 pip install -r requirements.txt
+
+... and then
