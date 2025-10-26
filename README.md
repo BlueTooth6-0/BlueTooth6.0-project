@@ -1,4 +1,4 @@
-# Project Name: Open BLE Localization AI Platform
+# Open BLE Localization AI Platform
 
 > 📡 Open-source AI framework for BLE RSSI and IQ-based localization models.
 
