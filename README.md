@@ -12,7 +12,6 @@ It includes standardized data formats, training and deployment scripts, and clea
 | `models/` | Pretrained models and conversion scripts |
 | `scripts/` | Data conversion, evaluation, and main codes or demo codes |
 | `docs/` | Instruction documentation |
-| `examples/` | Example notebooks for model usage |
 | `tests/` | Validation and consistency checks |
 
 # other introduction for this project...
