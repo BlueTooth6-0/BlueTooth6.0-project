@@ -11,8 +11,10 @@
 examples/
 ├── data_preprocessing/ # 資料前處理範例
 │   └── preprocess_rssi.py # (範例：如何將原始 RSSI 轉換為模型輸入格式)
-├── model_inference/ # 模型推論範例│ ├── run_positioning.py # (範例：載入室內定位模型並進行預測)
-│   └── run_classification.py # (範例：載入場域分類模型進行預測)│ ├── visualization/ # 結果視覺化範例
+├── model_inference/ # 模型推論範例
+├── run_positioning.py # (範例：載入室內定位模型並進行預測)
+│   └── run_classification.py # (範例：載入場域分類模型進行預測)
+├── visualization/ # 結果視覺化範例
 │   └── plot_location.py # (範例：將模型的座標輸出繪製在地圖上)
 └── ... # 其他範例情境
 ```
