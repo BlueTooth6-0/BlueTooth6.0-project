@@ -1,4 +1,4 @@
-# 範例程式碼 (Examples)
+# BlueTooth6.0 Examples
 
 歡迎使用本專案的範例程式碼庫。
 
