@@ -10,8 +10,8 @@ It includes standardized data formats, training and deployment scripts, and clea
 | Folder | Description |
 |--------|--------------|
 | `models/` | Pretrained models and conversion scripts |
-| `scripts/` | Data conversion, evaluation, and ONNX export scripts |
-| `docs/` | Model format and API documentation |
+| `scripts/` | Data conversion, evaluation, and main codes or demo codes |
+| `docs/` | Instruction documentation |
 | `examples/` | Example notebooks for model usage |
 | `tests/` | Validation and consistency checks |
 
